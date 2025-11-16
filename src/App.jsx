@@ -6,7 +6,7 @@ export default function App() {
     <div>
     
       <pre>
-        {JSON.stringify(productApi, null, 2)}
+        {JSON.stringify(productApi, null,1)}
       </pre>
     </div>
   );
